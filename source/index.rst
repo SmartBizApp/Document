@@ -9,7 +9,7 @@ SmartBizApp 开源项目
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    introduction/index
    user-guide/index

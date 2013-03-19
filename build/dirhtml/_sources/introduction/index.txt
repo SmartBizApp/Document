@@ -5,5 +5,6 @@
 .. toctree::
 	preface
 	what-is
+	value-proposition
 	how-it-works
 	features
