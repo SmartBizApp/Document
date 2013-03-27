@@ -15,6 +15,62 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "source/index.rst",
+			"settings":
+			{
+				"buffer_size": 521,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/introduction/preface.rst",
+			"settings":
+			{
+				"buffer_size": 1379,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/conf.py",
+			"settings":
+			{
+				"buffer_size": 9102,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/introduction/what-is.rst",
+			"settings":
+			{
+				"buffer_size": 1167,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/introduction/features.rst",
+			"settings":
+			{
+				"buffer_size": 159,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/introduction/features-showcase.rst",
+			"settings":
+			{
+				"buffer_size": 1337,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/introduction/features-coupon.rst",
+			"settings":
+			{
+				"buffer_size": 499,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/User/sphinx-dirhtml.sublime-build",
 	"command_palette":
@@ -72,6 +128,28 @@
 	},
 	"file_history":
 	[
+		"/Users/jixian/github/smartbizapp/Document/source/introduction/usecase/features-coupon.rst",
+		"/Users/jixian/github/smartbizapp/Document/source/introduction/feature-showcase.rst",
+		"/Users/jixian/github/smartbizapp/Document/source/introduction/usecase/index.rst",
+		"/Users/jixian/github/smartbizapp/Document/source/introduction/index.rst",
+		"/Users/jixian/github/smartbizapp/Document/source/introduction/value-proposition.rst",
+		"/Users/jixian/github/smartbizapp/Document/README.md",
+		"/Users/jixian/github/smartbizapp/Document/source/_themes/f6/static/brillant.png",
+		"/Users/jixian/github/smartbizapp/Document/source/introduction/images/mobile-business-app.png",
+		"/Users/jixian/github/smartbizapp/Document/source/user-guide/index.rst",
+		"/Users/jixian/github/smartbizapp/Document/source/introduction/what-is.rst",
+		"/Users/jixian/github/smartbizapp/Document/source/introduction/preface.rst",
+		"/Users/jixian/github/smartbizapp/Document/source/introduction/features.rst",
+		"/Users/jixian/github/smartbizapp/Document/source/introduction/how-it-works.rst",
+		"/Users/jixian/github/smartbizapp/Document/source/developer-guide/index.rst",
+		"/Users/jixian/github/smartbizapp/Document/source/designer-guide/index.rst",
+		"/Users/jixian/github/smartbizapp/Document/build/doctrees/introduction/how-it-works.doctree",
+		"/Users/jixian/github/smartbizapp/Document/build/doctrees/introduction/features.doctree",
+		"/Users/jixian/github/smartbizapp/Document/build/doctrees/designer-guide/index.doctree",
+		"/Users/jixian/github/smartbizapp/Document/source/introduction/whatis.rst",
+		"/Users/jixian/github/smartbizapp/Document/source/introduction/whatis",
+		"/Users/jixian/github/smartbizapp/Document/source/introduction/preface",
+		"/Users/jixian/github/smartbizapp/Document/source/introduction/index",
 		"/Users/jixian/github/candjs/Document/source/index.rst",
 		"/Users/jixian/github/candjs/Document/candyjs-doc.sublime-workspace",
 		"/Users/jixian/github/candjs/Document/source/conf.py",
@@ -120,8 +198,285 @@
 	"groups":
 	[
 		{
+			"selected": 6,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "source/index.rst",
+					"settings":
+					{
+						"buffer_size": 521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								335
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/RestructuredText/reStructuredText.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/introduction/preface.rst",
+					"settings":
+					{
+						"buffer_size": 1379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								384,
+								327
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/RestructuredText/reStructuredText.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/conf.py",
+					"settings":
+					{
+						"buffer_size": 9102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3540,
+								3540
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1189.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "source/introduction/what-is.rst",
+					"settings":
+					{
+						"buffer_size": 1167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/RestructuredText/reStructuredText.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "source/introduction/features.rst",
+					"settings":
+					{
+						"buffer_size": 159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/RestructuredText/reStructuredText.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "source/introduction/features-showcase.rst",
+					"settings":
+					{
+						"buffer_size": 1337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211,
+								211
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/RestructuredText/reStructuredText.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "source/introduction/features-coupon.rst",
+					"settings":
+					{
+						"buffer_size": 499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								499,
+								499
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/RestructuredText/reStructuredText.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
